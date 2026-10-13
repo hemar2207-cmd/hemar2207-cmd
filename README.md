@@ -1,4 +1,5 @@
 Hi, I'm Hemalatha! 👋
+
 🎓 ECE Student | 💻 Aspiring Developer | 🐍 Python Learner | 🌱 Growing Every Day
 
 Welcome to my GitHub profile! 🚀
@@ -21,6 +22,6 @@ I'm currently pursuing my B.Tech in Electronics and Communication Engineering. I
 
 🌱 My Motto
 
-Learn something new. Practice every day. Improve continuously.
+   Learn something new. Practice every day.    Improve continuously.
 
 Thanks for visiting my profile! 😊
